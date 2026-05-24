@@ -1,0 +1,183 @@
+{
+  "name": "Modded",
+  "game_version": null,
+  "created_by": "HighTechLowLife",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.6",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "b14e92142eb21f11da4555bde0f66839d30b054fc96ed1782b9df842bcdee4d8",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.6_d4af5118.zip",
+      "bundle_sha256": "d4af5118137d21fbd51fe0dea6b2a70534f247352f28fdc350f621278771eea2"
+    },
+    {
+      "name": "BetterDrawing",
+      "version": "0.1.2",
+      "source": "github:awzhanwu/sts2-BetterDrawing-Mods",
+      "hash": "dd2181ba6f431a4ffec42babef8ade4320ba5875e82772f431e75b296bdaeba7",
+      "files": [
+        "BetterDrawing\\BetterDrawing.dll",
+        "BetterDrawing\\BetterDrawing.pck",
+        "BetterDrawing\\mod_manifest.json"
+      ],
+      "folder_name": "BetterDrawing",
+      "mod_id": "BetterDrawing",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BetterDrawing_v0.1.2_2cc49f54.zip",
+      "bundle_sha256": "2cc49f548acacaf8cbeab7c39febd4eab228dbb074ac281656e64e117c6dfc5c"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.3",
+      "source": "github:AlecRichardson/BetterSpire2",
+      "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_f7767da3.zip",
+      "bundle_sha256": "f7767da3293f98f5f8800e2d1985a742630ae1f818ae615781cb94880e4b1501"
+    },
+    {
+      "name": "Campfire Trading",
+      "version": "v1.0",
+      "source": "github:chaendizzle/STS2Trade",
+      "hash": "7de49de0d1663d5d6cd3607eb963f560472800f37b3b9839096583fb41b387f6",
+      "files": [
+        "STS2Trade.dll",
+        "STS2Trade.json",
+        "STS2Trade.pck"
+      ],
+      "folder_name": "STS2Trade",
+      "mod_id": "STS2Trade",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0_c06b333f.zip",
+      "bundle_sha256": "c06b333f281287e2fad74cf3ecc0a9ceb84a31cf7ada05cf9dd0544457594adc"
+    },
+    {
+      "name": "Laharl",
+      "version": "v0.0.0",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "5b973466cbc32003f46f2323a4f983a580e16025a61232ea1a5598691bac4c14",
+      "files": [
+        "Laharl\\Laharl.dll",
+        "Laharl\\Laharl.json",
+        "Laharl\\Laharl.pck"
+      ],
+      "folder_name": "Laharl",
+      "mod_id": "Laharl",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Laharl_v0.0.0_daa9ce97.zip",
+      "bundle_sha256": "daa9ce97c9c95d0d4657f606f940d96121092621f5d1ec03e496cb16c3aaea57"
+    },
+    {
+      "name": "sts2_typing",
+      "version": "0.0.5",
+      "source": "github:Shiroim/sts2_typing",
+      "hash": "e0a9983f9817d6e9c94eee14ea3e38b7fac5a8039aaa3af3dbb756c942a465ba",
+      "files": [
+        "typing\\typing.dll",
+        "typing\\typing.json"
+      ],
+      "folder_name": "typing",
+      "mod_id": "typing",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/sts2_typing_v0.0.5_ca3096ab.zip",
+      "bundle_sha256": "ca3096ab5fcc46679bbb75fe0f494dbd802076b0d3065e934739e8f67cd13007"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": "github:luojiesi/SLS2Mods",
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_538f6db5.zip",
+      "bundle_sha256": "538f6db5120a4b1229bd26315a3c3e33435980cbba5618b95a7636a75801e61b"
+    },
+    {
+      "name": "帕秋莉库",
+      "version": "1.4",
+      "source": null,
+      "hash": "7729b8f9ddabe85276758cf6c0fc867842e8d6001394c4dd177b3e9ef07aecd5",
+      "files": [
+        "Patchoulib\\Patchoulib.dll",
+        "Patchoulib\\Patchoulib.json",
+        "Patchoulib\\Patchoulib.pck"
+      ],
+      "folder_name": "Patchoulib",
+      "mod_id": "Patchoulib",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.4_e85f8c98.zip",
+      "bundle_sha256": "e85f8c9895fce65182360ea1cee20ca9356c7a5e47d2fe7421266660e94e4f8c"
+    },
+    {
+      "name": "皮皮统计: Skada",
+      "version": "1.14.4",
+      "source": "github:bkader/Skada-Damage-Meter",
+      "hash": "53967b68ed6f5cf1cbe3f7ad21f3ae1127eb4eb23386a2b51feb490487f8fadd",
+      "files": [
+        "DamageMeter\\DamageMeter.dll",
+        "DamageMeter\\DamageMeter.json",
+        "DamageMeter\\DamageMeter.pck"
+      ],
+      "folder_name": "DamageMeter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_1bec2758.zip",
+      "bundle_sha256": "1bec2758b252e108f4bee3931db2f976e51b864a3d7f776ae1dc8dee88cd5793"
+    },
+    {
+      "name": "魂魄妖梦",
+      "version": "1.2",
+      "source": null,
+      "hash": "0a6fbbdee24dbb9df27d8332306215d9f8eb15c67f6bf37fd378fc6482ef91f9",
+      "files": [
+        "Sts2ModYoumu\\TH_Youmu.dll",
+        "Sts2ModYoumu\\TH_Youmu.json",
+        "Sts2ModYoumu\\TH_Youmu.pck"
+      ],
+      "folder_name": "Sts2ModYoumu",
+      "mod_id": "TH_Youmu",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.2_6e995dc9.zip",
+      "bundle_sha256": "6e995dc92578a61a70c33bcb66c4f6b5b1b81e83e43d828382604e149b66db0e"
+    }
+  ],
+  "created_at": "2026-05-24T16:05:15.736958800Z",
+  "updated_at": "2026-05-24T16:05:15.736958800Z",
+  "public": false
+}
