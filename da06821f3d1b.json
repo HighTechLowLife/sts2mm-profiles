@@ -16,8 +16,8 @@
       "folder_name": "Act4FinalAscent",
       "mod_id": "Act4FinalAscent",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_a9d2f3b1.zip",
-      "bundle_sha256": "a9d2f3b126d07a4c7a050b545fc031a7baa9b9199387d3573b7ef17db0719f79"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_158c178a.zip",
+      "bundle_sha256": "158c178a35bd94f1a6209c7452e16eb24a16ba238d770008104a30050004e1c1"
     },
     {
       "name": "BaseLib",
@@ -32,8 +32,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.6_39bd9a22.zip",
-      "bundle_sha256": "39bd9a2263fbed4b3a203b2afa78f773e5ca92c8ea4146ffe233e959e7409699"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.6_a60ae2a3.zip",
+      "bundle_sha256": "a60ae2a30c21c4adf244249162630b0e05cf078145ccfe255c2f4242299059ff"
     },
     {
       "name": "BetterDrawing",
@@ -48,8 +48,8 @@
       "folder_name": "BetterDrawing",
       "mod_id": "BetterDrawing",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BetterDrawing_v0.1.2_7801bf60.zip",
-      "bundle_sha256": "7801bf603d75e5c2c78dcf0e44617edd579cde486c057be6a2199655b03ed595"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BetterDrawing_v0.1.2_41b72ceb.zip",
+      "bundle_sha256": "41b72ceb71f8b73cd836aa2e20737c3459cdb30d2c0bcd408253ff55244ec593"
     },
     {
       "name": "BetterSpire2",
@@ -78,8 +78,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_ae4ccf08.zip",
-      "bundle_sha256": "ae4ccf08c7a279eb3223dcc56d5cba62f898a77fd3171d44ad6012b0df407784"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_2f8591da.zip",
+      "bundle_sha256": "2f8591dabb6816384aa7971228f4ab67ac2b814593e9c49b00d93f514bf155b4"
     },
     {
       "name": "BoosterPackMod",
@@ -94,8 +94,8 @@
       "folder_name": "BoosterPackMod",
       "mod_id": "BoosterPackMod",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BoosterPackMod_v0.0.5_0acaa6fc.zip",
-      "bundle_sha256": "0acaa6fc95819d88064c0d1b951c2f75b54afc40fd371199843ba4889eb4d348"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/BoosterPackMod_v0.0.5_ecabb539.zip",
+      "bundle_sha256": "ecabb5397bad566f896539010e687553ce165203218329e4dbeac0f18179dcbb"
     },
     {
       "name": "Calypso'sHappyHour / 卡里普索的欢乐时光",
@@ -111,8 +111,8 @@
       "folder_name": "CalypsosHappyHour",
       "mod_id": "CalypsosHappyHour",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Calypso.sHappyHour___._v1.1.3_a1cea9bc.zip",
-      "bundle_sha256": "a1cea9bc9c4d2839db429fd532b3d1b863e8b2d8c54be65c70c18dcc87e4728d"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Calypso.sHappyHour___._v1.1.3_ac3cd588.zip",
+      "bundle_sha256": "ac3cd58816b3c1fd1cb0e550dac2aa7038b82a7e143e4ca44adcb5158245c9b4"
     },
     {
       "name": "CombatQuill",
@@ -129,8 +129,8 @@
       "folder_name": "CombatQuill",
       "mod_id": "CombatQuill",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/CombatQuill_v0.2.2_d835282d.zip",
-      "bundle_sha256": "d835282dedfda04ae4bcc95076152e40b9d1aff9a29c2532af2c665b18689dd1"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/CombatQuill_v0.2.2_58dbca99.zip",
+      "bundle_sha256": "58dbca993248ee84ece3d0ee2cc9f7eddb210b8c453baa88f9f0bbc4be7aa95e"
     },
     {
       "name": "CustomCardTextureLoaderSG",
@@ -146,8 +146,8 @@
       "folder_name": "CustomCardTextureLoaderSG",
       "mod_id": "CustomCardTextureLoaderSG",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/CustomCardTextureLoaderSG_v0.0.9_d3f294f2.zip",
-      "bundle_sha256": "d3f294f27e79559526b7d9104e55bbce93422bcf846f360a4b12c0718e682e80"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/CustomCardTextureLoaderSG_v0.0.9_b69522de.zip",
+      "bundle_sha256": "b69522decfc7da8fcf2b716410bfae758e2f16a2562401f505aa8beb475cbaaf"
     },
     {
       "name": "DemonHunterTest",
@@ -162,8 +162,8 @@
       "folder_name": "DemonHunterTest",
       "mod_id": "DemonHunterTest",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/DemonHunterTest_v0.2.0_4f14cd50.zip",
-      "bundle_sha256": "4f14cd50509a1d189c0687ab7e30953a80c48d08ec933e6a8537dde1d3f84f38"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/DemonHunterTest_v0.2.0_b0928281.zip",
+      "bundle_sha256": "b09282815d82d96d0a2c3273628ac6086b39d117d154a62344590fa8323ecc0a"
     },
     {
       "name": "Energized Spire 2.0",
@@ -178,8 +178,8 @@
       "folder_name": "EnergizedSpire2",
       "mod_id": "EnergizedSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Energized_Spire_2_0_v0.4.0_cefe1029.zip",
-      "bundle_sha256": "cefe1029332240d52ec81d4dc872306f4aeff573d75d60d3034c8aff7f01d132"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Energized_Spire_2_0_v0.4.0_d3ffc508.zip",
+      "bundle_sha256": "d3ffc508e1c5ea781682d2ee3c41f99e19cd277c4e3caf754004b2a5631cf6b9"
     },
     {
       "name": "Frigil",
@@ -194,8 +194,8 @@
       "folder_name": "PicklerFrigil",
       "mod_id": "PicklerFrigil",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Frigil_v0.1.3_e584e0eb.zip",
-      "bundle_sha256": "e584e0eb55519adfa8ef822ccb8408c1cda245117c96479c9fbc149a6bb27d6b"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Frigil_v0.1.3_da731aa5.zip",
+      "bundle_sha256": "da731aa531eb45bf961d096c6f73711e7902ad2c6ef7ef7fb599e9ba74a401d9"
     },
     {
       "name": "FunnyFoxy2",
@@ -210,8 +210,8 @@
       "folder_name": "FunnyFoxy2",
       "mod_id": "FunnyFoxy2",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/FunnyFoxy2_v1.0.0_27f22f44.zip",
-      "bundle_sha256": "27f22f44ddc0fa4aaa613f7ee50a1a750c2a5fa6dd0cd7c589bf512b2233251a"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/FunnyFoxy2_v1.0.0_6ba29890.zip",
+      "bundle_sha256": "6ba2989020009e57204f57eaa25352e2f5f2adc62d04c29e477e00b9e200468a"
     },
     {
       "name": "Laharl",
@@ -226,8 +226,8 @@
       "folder_name": "Laharl",
       "mod_id": "Laharl",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Laharl_v0.0.0_2e46c00f.zip",
-      "bundle_sha256": "2e46c00ffbc6c572d16adb649b326029f04b0fe748a76d7d124a30f1fd9a410a"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Laharl_v0.0.0_62d4f2f3.zip",
+      "bundle_sha256": "62d4f2f31c9a9d9aa7ae90b917116cdcb4eafd12fee3fd095017ee2f9ea78028"
     },
     {
       "name": "LustTravel2",
@@ -242,8 +242,8 @@
       "folder_name": "LustTravel2",
       "mod_id": "LustTravel2",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.12.1_b6a22223.zip",
-      "bundle_sha256": "b6a22223697891855b577f2ff44adcdb436b25e968e201533397e65a326a62d5"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.12.1_eed799a4.zip",
+      "bundle_sha256": "eed799a41fa0ba0ca68a682683abd21f9787509d13dd8d2958e26ab3dedba64b"
     },
     {
       "name": "LustTravel2 Patch",
@@ -258,8 +258,8 @@
       "folder_name": "LustTravel2_Patch",
       "mod_id": "LustTravel2_Patch",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.10.5_a5e33563.zip",
-      "bundle_sha256": "a5e335632f855563723f4b0db8681d77dd3ea58ba4c4839cd49849c968561a51"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.10.5_716331f6.zip",
+      "bundle_sha256": "716331f6305a251da26e03d83db63204044c19be4ae1bffcd0a1572a2b8f2484"
     },
     {
       "name": "Map Enhance Mod",
@@ -276,8 +276,8 @@
       "folder_name": "sts2_map_mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_b760955e.zip",
-      "bundle_sha256": "b760955e07b0b2574350554eaf7b4c7c220faabcb6c6bb59aa2a5b68a62736f1"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_aca90c58.zip",
+      "bundle_sha256": "aca90c58675aa9a9460aebac0c05de31163feec812cf632205e1b949c63ede26"
     },
     {
       "name": "MapPingSound",
@@ -292,8 +292,8 @@
       "folder_name": "MapPingSound",
       "mod_id": "MapPingSound",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/MapPingSound_v1.1.1_a96a2e5d.zip",
-      "bundle_sha256": "a96a2e5d3028ccc70ac554c2afe03b195c5dbb062f77db3d0ee8a3ff6fc0836e"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/MapPingSound_v1.1.1_e89c7d5f.zip",
+      "bundle_sha256": "e89c7d5f942697fe2a6f11c2f3acce2b7bffc32379564e2c90b2234b0dec1621"
     },
     {
       "name": "Merchant insults",
@@ -308,8 +308,8 @@
       "folder_name": "NoMoneyMerchantInsult",
       "mod_id": "NoMoneyMerchantInsult",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Merchant_insults_v1.0.0_e87475bc.zip",
-      "bundle_sha256": "e87475bc10a9f7311526d0bb131ecd0447191fef5ec10aba53f911bddc5d4056"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Merchant_insults_v1.0.0_751f71c0.zip",
+      "bundle_sha256": "751f71c025c29eb1ac3a283e9b168f930dc04cf2e2eba715e206470e24c5e7d7"
     },
     {
       "name": "More Ascensions",
@@ -324,8 +324,8 @@
       "folder_name": "MoreAscensions",
       "mod_id": "MoreAscensions",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/More_Ascensions_v1.0.0_ee5ec337.zip",
-      "bundle_sha256": "ee5ec3379be945f1f04cd07c6a655558679a093f982184f26b460b5c509e02a1"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/More_Ascensions_v1.0.0_95714f62.zip",
+      "bundle_sha256": "95714f62a792d9e7f0d4658632ffd556e6490e00060c75bbc89a90ca331def30"
     },
     {
       "name": "RitsuLib (STS2 0.103.2 compat)",
@@ -340,8 +340,25 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.0_c8907c86.zip",
-      "bundle_sha256": "c8907c86f045817a491809bbe09676bbcb569a83863a1341d2b94d4d4e3bd14a"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.0_91578d70.zip",
+      "bundle_sha256": "91578d70c76c4dc5b3e9fbb8117661cc6c78d4286e7b3de1ba6bb5a32434a6b0"
+    },
+    {
+      "name": "SHADOWVERSE:逼养的WORLD",
+      "version": "V0.9",
+      "source": null,
+      "hash": "949e60bb3f166734b869de2938c569891e4bc755e91d2417f89fe11355a3898b",
+      "files": [
+        "shadowverse\\shadowverse.dll",
+        "shadowverse\\shadowverse.json",
+        "shadowverse\\shadowverse.pck",
+        "shadowverse\\SpineGodot.dll"
+      ],
+      "folder_name": "shadowverse",
+      "mod_id": "shadowverse",
+      "enabled": true,
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/SHADOWVERSE_.WORLD_vV0.9_5cd80430.zip",
+      "bundle_sha256": "5cd804304030da31362786fd281bb9a75de47d79092026908d91eb596e90bd25"
     },
     {
       "name": "Stats the Spire",
@@ -362,8 +379,8 @@
       "folder_name": "stats_the_spire",
       "mod_id": "sts2_community_stats",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Stats_the_Spire_v0.16.2_5f95096b.zip",
-      "bundle_sha256": "5f95096b3d2c4ecef31b100ef95e6e9760534e91dabf04a95d1b6c1199d4c2f5"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Stats_the_Spire_v0.16.2_b8321e2c.zip",
+      "bundle_sha256": "b8321e2c76c1079fee1b99148b58b6c779ef774115b5706fb29345c7b56ea612"
     },
     {
       "name": "sts2_typing",
@@ -377,8 +394,8 @@
       "folder_name": "typing",
       "mod_id": "typing",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/sts2_typing_v0.0.5_fb127492.zip",
-      "bundle_sha256": "fb127492cd23ccd5a4605c3398db35dab36318ee3c39c7e28193d1d1b4b2a13f"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/sts2_typing_v0.0.5_0429afdf.zip",
+      "bundle_sha256": "0429afdf186be3fc2aafea83fd63a871d8afd9c9aa20960326eda77cc4148f65"
     },
     {
       "name": "The First Blade Master Soldoros",
@@ -393,8 +410,8 @@
       "folder_name": "soldoros",
       "mod_id": "Soldoros",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/The_First_Blade_Master_Soldoros_v1.2.4_ef8450a4.zip",
-      "bundle_sha256": "ef8450a410facbf78051bf5861346fc24a7e65f9dd959ef96d3aafa08f4985ef"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/The_First_Blade_Master_Soldoros_v1.2.4_61f4eb52.zip",
+      "bundle_sha256": "61f4eb52ea1c7e1c3e994648834ae2de164e00f9cf0def79cc79076cd99c56dd"
     },
     {
       "name": "The Hermit",
@@ -409,8 +426,8 @@
       "folder_name": "HermitMod",
       "mod_id": "HermitMod",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_91c34163.zip",
-      "bundle_sha256": "91c3416344a610bf907d1c21778f0f3d453a11831951a055fbeb8e0ed08d19a0"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_d7efa826.zip",
+      "bundle_sha256": "d7efa826f6f52397c4d81bda4276834877da176ca2bc0f1d764e53f36e3ef1dd"
     },
     {
       "name": "The Shade",
@@ -425,8 +442,8 @@
       "folder_name": "CIXIN_TheShade",
       "mod_id": "CIXIN_TheShade",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/The_Shade_v0.1.7.0.103._66f62ff7.zip",
-      "bundle_sha256": "66f62ff70f7dab774408d1f7e0353bb00fbaf0e929b74ae2b2420c0cd54c8989"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/The_Shade_v0.1.7.0.103._216f13b7.zip",
+      "bundle_sha256": "216f13b741b9d33500cc6dd27626669972db8df65e0fe3600088b21ddc92f52d"
     },
     {
       "name": "Unified Save Path",
@@ -441,8 +458,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_63a626f2.zip",
-      "bundle_sha256": "63a626f282be994ad7b2277ccae767f6565621d29241980bc598d726dd8be3d0"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_752ba609.zip",
+      "bundle_sha256": "752ba609bb462e1895e4259a4612f4ce5ef5709fb1ca680b7340a5aaa618244d"
     },
     {
       "name": "Watcher",
@@ -457,8 +474,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_57602fbd.zip",
-      "bundle_sha256": "57602fbd19fcc5184276a89d0ec8cea75b394d8535136482296bca500767d5b8"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_f0b22705.zip",
+      "bundle_sha256": "f0b22705ff811a34c1984637daa2e7dbdedc9ff9f6b625a52d1d5c76af68ac61"
     },
     {
       "name": "十六夜咲夜",
@@ -473,8 +490,8 @@
       "folder_name": "Sts2ModSakuya",
       "mod_id": "TH_Sakuya",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.7_20b40b86.zip",
-      "bundle_sha256": "20b40b86f4d12486a3f3038cf6c881bc745ab0421f5ab1b3e95a279fdad5e7d5"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.7_0b7e3996.zip",
+      "bundle_sha256": "0b7e399666d8dcfe6560a93d8c16e629d45e7fbf538fa843bb517222600ae140"
     },
     {
       "name": "帕秋莉库",
@@ -489,8 +506,8 @@
       "folder_name": "Patchoulib",
       "mod_id": "Patchoulib",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.4_7b98cb01.zip",
-      "bundle_sha256": "7b98cb0101406569fad8de6236308e4f27bac8932efc2c3d6d78bea870844fad"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.4_8e6ebb85.zip",
+      "bundle_sha256": "8e6ebb850757a2cc6131ca17a3d0889d2f3b718e193d83a471c9099f6762fd75"
     },
     {
       "name": "机娘“阿塔”",
@@ -505,8 +522,8 @@
       "folder_name": "ATA_IronClad",
       "mod_id": "ATA_IronClad",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v0.1.5_1e6f3ecd.zip",
-      "bundle_sha256": "1e6f3ecd3df9c566d4139e36de844ea0d9485f9f065b1c852f789a2272b60b53"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v0.1.5_197d0b7a.zip",
+      "bundle_sha256": "197d0b7a1f4f317231ba5255a591c7bfdba9dead6469b9f79265cbdf5d90bbfa"
     },
     {
       "name": "火焰猫燐",
@@ -521,8 +538,8 @@
       "folder_name": "Sts2ModRin",
       "mod_id": "TH_Rin",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.4_c8964e3b.zip",
-      "bundle_sha256": "c8964e3b75c8e9461e3eb21d82d837a882abe477f89d0a45a3b0fe7da8766363"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.4_e8a700e1.zip",
+      "bundle_sha256": "e8a700e133091484086af4fa8ddbb85d2cece7d1f7b35f897969c8cfe7ef9753"
     },
     {
       "name": "爱丽丝·玛格特洛伊德",
@@ -537,24 +554,8 @@
       "folder_name": "Sts2ModAlice",
       "mod_id": "TH_Alice",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v2.2_57e4ab09.zip",
-      "bundle_sha256": "57e4ab0928aa7a8ecc297c4fba0943703200a8f110dbf06861132714824ddf1d"
-    },
-    {
-      "name": "皮皮极速: SpeedX",
-      "version": "0.11.7",
-      "source": null,
-      "hash": "fe152522c9d030290c2db2eb3777ff3d7f835be5cb8c739df9c3e64e7da6384d",
-      "files": [
-        "SpeedX\\SpeedX.dll",
-        "SpeedX\\SpeedX.json",
-        "SpeedX\\SpeedX.pck"
-      ],
-      "folder_name": "SpeedX",
-      "mod_id": "SpeedX",
-      "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_e26db31d.zip",
-      "bundle_sha256": "e26db31d299745f253d34eaf654ba9a8a21a26d7301634489bcfe0954937fcb6"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v2.2_7cb7379e.zip",
+      "bundle_sha256": "7cb7379e060997427839a67ec1001139c0d765d23cf256f8032b16b1f4dd7192"
     },
     {
       "name": "皮皮统计: Skada",
@@ -569,8 +570,8 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_0aaaa1ea.zip",
-      "bundle_sha256": "0aaaa1eadac3a3588a7378ce4f56b5648478ebba110aba5bb728a2a37c5746bb"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_db71e60e.zip",
+      "bundle_sha256": "db71e60edacdcd040f3456d857c4de864349094e649bb72c70a2fa0f24088b64"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -585,8 +586,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_1246c30e.zip",
-      "bundle_sha256": "1246c30ebc31f4b79dc2b0376f7e4ae42404a3f1d5007746da4de85625f72bdd"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_145e9174.zip",
+      "bundle_sha256": "145e9174acd95e40332f050d5de288aa9bb0b65635c19930cb5599c09fc3107d"
     },
     {
       "name": "荒疫",
@@ -604,8 +605,8 @@
       "folder_name": "blight",
       "mod_id": "blight",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v0.3.9_dac85f76.zip",
-      "bundle_sha256": "dac85f764eb734feeccc3c9168913c1689ecac9110d5f82e0180edba2448e8b1"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v0.3.9_57ddd514.zip",
+      "bundle_sha256": "57ddd5142c2629cfc7f7367753d7044ecb858e9f207fdaadd2621535f3b28d04"
     },
     {
       "name": "西行寺幽幽子",
@@ -620,8 +621,8 @@
       "folder_name": "Sts2ModYuyuko",
       "mod_id": "TH_Yuyuko",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.4_a30a27f0.zip",
-      "bundle_sha256": "a30a27f0915f1cd2869f89f99fc7e12fbb5d279696a64cc5cb35f1d74da6dfdc"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.4_fab4a263.zip",
+      "bundle_sha256": "fab4a263624ec6f8b51d6f36e62fa6404141811cca13ec58f1c8446a0e5c944d"
     },
     {
       "name": "魂魄妖梦",
@@ -636,11 +637,11 @@
       "folder_name": "Sts2ModYoumu",
       "mod_id": "TH_Youmu",
       "enabled": true,
-      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.2_a4a00ccb.zip",
-      "bundle_sha256": "a4a00ccb1f522a7e23515ce6b25df4e249b23d6127413c5a18ed83488eb6cbf4"
+      "bundle_url": "https://github.com/HighTechLowLife/sts2mm-profiles/releases/download/bundles/_v1.2_31b7f15a.zip",
+      "bundle_sha256": "31b7f15a9cb4fbe69cf6518b863469c2022c7253d1c7386568297bea2ed6eb4f"
     }
   ],
   "created_at": "2026-05-24T16:05:15.736958800Z",
-  "updated_at": "2026-05-25T02:12:44.069634700Z",
+  "updated_at": "2026-05-30T21:43:13.226414400Z",
   "public": false
 }
